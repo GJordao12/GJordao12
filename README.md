@@ -7,8 +7,8 @@
 </div>
 
 <div align="center">
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything via <a href="mailto:grtjordao782001@gmail.com"><b>email</b></a> 📩
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
+</div>
 
 ##
  
