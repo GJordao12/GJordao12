@@ -27,8 +27,6 @@ Ask me anything via <a href="mailto:grtjordao782001@gmail.com"><b>email</b></a> 
 </div>
 
 ## 
-
- ##
  
 <div style="display: inline_block" align="center"><br> 
   <a href="https://instagram.com/jordao12" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
