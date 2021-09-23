@@ -44,5 +44,5 @@ Ask me anything via <a href="mailto:grtjordao782001@gmail.com"><b>email</b></a> 
 <div align="center"><br> 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{GJordao12}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 </div>
