@@ -3,7 +3,10 @@
 </div>
 
 <div align="center">
-You have finally discovered my Github profile. <br>
+<p> 𝗬𝗼𝘂 𝗵𝗮𝘃𝗲 𝗳𝗶𝗻𝗮𝗹𝗹𝘆 𝗱𝗶𝘀𝗰𝗼𝘃𝗲𝗿𝗲𝗱 𝗺𝘆 𝗚𝗶𝘁𝗵𝘂𝗯 𝗽𝗿𝗼𝗳𝗶𝗹𝗲 <p>
+</div>
+
+<div align="center">
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything via <a href="mailto:grtjordao782001@gmail.com"><b>email</b></a> 📩
 
