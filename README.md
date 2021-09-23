@@ -32,4 +32,5 @@ Ask me anything via <a href="mailto:grtjordao782001@gmail.com"><b>email</b></a> 
   <a href="https://instagram.com/jordao12" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mailto:grtjordao782001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gon%C3%A7alo-jord%C3%A3o-7a1535121" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.fiverr.com/gjordao" target="_blank"><img src="https://img.shields.io/badge/-Fiverr-%230077B5?style=for-the-badge&logo=fiverr&logoColor=white" target="_blank"></a> 
 </div>
