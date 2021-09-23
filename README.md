@@ -17,7 +17,7 @@ Ask me anything via <a href="mailto:grtjordao782001@gmail.com"><b>email</b></a> 
 ##
  
 <div align="center">
-<h1> 𝗚𝗶𝘁𝗵𝘂𝗯'𝘀 𝗦𝘁𝗮𝘁𝘀: </h1>
+<p> 𝗚𝗶𝘁𝗵𝘂𝗯'𝘀 𝗦𝘁𝗮𝘁𝘀: <p>
 </div>
  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GJordao12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
