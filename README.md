@@ -10,10 +10,16 @@ Ask me anything via <a href="mailto:grtjordao782001@gmail.com"><b>email</b></a> 
 ##
  
 <div align="center">
-<p> About me <p>
+<p> 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲: <p>
 <p> My name is Gonçalo Jordão, I live in Porto (Portugal) and I am 20 years old. I started studying programming in 2019, when I entered in the Computer Engineering course at <a href="https://www.isep.ipp.pt/" aria-label="ISEP" target="_blank">ISEP</a> (Instituto Superior de Engenharia do Porto). After finishing my 1st year of the course I decided to enter the working world (whilst I continued to study), so I started working as a Freelancer at the <a href="https://fiverr.com/gjordao" aria-label="Fiverr Platform" target="_blank">Fiverr Platform</a>. On that Platform I have done and I continue to do several projects, some simpler others more complex, for people who need it and request it.</p>
 </div>
-  
+
+##
+ 
+<div align="center">
+<h1> 𝗚𝗶𝘁𝗵𝘂𝗯'𝘀 𝗦𝘁𝗮𝘁𝘀: </h1>
+</div>
+ 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GJordao12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GJordao12&layout=compact&langs_count=7&theme=dark"/>
 </div>
