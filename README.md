@@ -16,7 +16,7 @@ Ask me anything via <a href="mailto:grtjordao782001@gmail.com"><b>email</b></a> 
 ##
 
 <div align="center">
-<p> 𝗠𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝘁𝗼𝗼𝗹𝘀: </p>
+<p> 𝗠𝘆 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗧𝗼𝗼𝗹𝘀: </p>
 </div>
 
 <div style="display: inline_block" align="center"><br>
@@ -31,7 +31,11 @@ Ask me anything via <a href="mailto:grtjordao782001@gmail.com"><b>email</b></a> 
 </div>
 
 ## 
- 
+
+<div align="center">
+<p> 𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮: </p>
+</div>
+
 <div style="display: inline_block" align="center"><br> 
   <a href="https://instagram.com/jordao12" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mailto:grtjordao782001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -41,7 +45,10 @@ Ask me anything via <a href="mailto:grtjordao782001@gmail.com"><b>email</b></a> 
 
 ##
 
+<div align="center">
+<p> 𝗩𝗶𝘀𝗶𝘁𝗼𝗿'𝘀 𝗖𝗼𝘂𝗻𝘁 :eyes:</p>
+</div>
+
 <div align="center"><br> 
-<p align="center">Visitor's count :eyes:</p>
 <p align="center"><img src="https://profile-counter.glitch.me/{GJordao12}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 </div>
