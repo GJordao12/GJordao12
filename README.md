@@ -6,7 +6,7 @@
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="mailto:grtjordao782001@gmail.com"><b>email</b></a> me
+Ask me anything via <a href="mailto:grtjordao782001@gmail.com"><b>email</b></a>
 
 <i>Happy Coding!</i> 👨‍💻
 
@@ -20,4 +20,5 @@ Ask me anything <a href="mailto:grtjordao782001@gmail.com"><b>email</b></a> me
   <img align="center" alt="Jordao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jordao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jordao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Jordao-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/java-original.svg">
 </div>
