@@ -6,7 +6,7 @@
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything via <a href="mailto:grtjordao782001@gmail.com"><b>email</b></a>
+Ask me anything via <a href="mailto:grtjordao782001@gmail.com"><b>email</b></a> 📩
 
 <i>Happy Coding!</i> 👨‍💻
 
