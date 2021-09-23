@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<p> 𝗬𝗼𝘂 𝗵𝗮𝘃𝗲 𝗳𝗶𝗻𝗮𝗹𝗹𝘆 𝗱𝗶𝘀𝗰𝗼𝘃𝗲𝗿𝗲𝗱 𝗺𝘆 𝗚𝗶𝘁𝗵𝘂𝗯 𝗽𝗿𝗼𝗳𝗶𝗹𝗲 <p>
+<p> 𝗬𝗼𝘂 𝗵𝗮𝘃𝗲 𝗳𝗶𝗻𝗮𝗹𝗹𝘆 𝗱𝗶𝘀𝗰𝗼𝘃𝗲𝗿𝗲𝗱 𝗺𝘆 𝗚𝗶𝘁𝗵𝘂𝗯 𝗣𝗿𝗼𝗳𝗶𝗹𝗲 <p>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
 </div>
 
@@ -24,11 +24,8 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 
 ##
 
-<div align="center">
-<p> 𝗠𝘆 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗧𝗼𝗼𝗹𝘀: </p>
-</div>
-
 <div style="display: inline_block" align="center"><br>
+  <p> 𝗠𝘆 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗧𝗼𝗼𝗹𝘀: </p>
   <img align="center" alt="Jordao-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Jordao-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Jordao-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
