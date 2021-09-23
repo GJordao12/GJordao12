@@ -38,3 +38,11 @@ Ask me anything via <a href="mailto:grtjordao782001@gmail.com"><b>email</b></a> 
   <a href="https://www.linkedin.com/in/gon%C3%A7alo-jord%C3%A3o-7a1535121" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.fiverr.com/gjordao" target="_blank"><img src="https://img.shields.io/badge/-Fiverr-%1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" target="_blank"></a> 
 </div>
+
+##
+
+<div align="center"><br> 
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+</div>
