@@ -38,6 +38,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
   <img align="center" alt="Jordao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jordao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jordao-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Jordao-PLSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plsql/plsql-original.svg">
 </div>
 
 ## 
