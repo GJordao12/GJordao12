@@ -11,7 +11,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
  
 <div align="center">
 <p> 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲: <p>
-<p> My name is Gonçalo Jordão, I live in Porto (Portugal) and I am 20 years old. I started studying programming in 2019, when I entered in the Computer Engineering course at <a href="https://www.isep.ipp.pt/" aria-label="ISEP" target="_blank">ISEP</a> (Instituto Superior de Engenharia do Porto). After finishing my 1st year of the course I decided to enter the working world (whilst I continued to study), so I started working as a Freelancer on the <a href="https://fiverr.com/gjordao" aria-label="Fiverr Platform" target="_blank">Fiverr Platform</a>. On that Platform I have done and I continue to do several projects, some simpler others more complex, for people who need it and request it.</p>
+<p> My name is Gonçalo Jordão, I live in Porto, Portugal. I started studying programming in 2019, when I entered in the Computer Engineering course at <a href="https://www.isep.ipp.pt/" aria-label="ISEP" target="_blank">ISEP</a> (Instituto Superior de Engenharia do Porto). After finishing my 1st year of the course I decided to enter the working world (whilst I continued to study), so I started working as a Freelancer on the <a href="https://fiverr.com/gjordao" aria-label="Fiverr Platform" target="_blank">Fiverr Platform</a>. On that Platform I have done and I continue to do several projects, some simpler others more complex, for people who need it and request it.</p>
 </div>
 
 ##
