@@ -39,7 +39,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
   <img align="center" alt="Jordao-ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Jordao-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Jordao-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Jordao-.NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnet/dotnet-original.svg">
+  <img align="center" alt="Jordao-.NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/.NET/.NET-original.svg">
   <img align="center" alt="Jordao-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
 </div>
 
