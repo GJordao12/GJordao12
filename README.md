@@ -55,10 +55,3 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
     <a href="https://www.linkedin.com/in/gjordao12/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.fiverr.com/gjordao" target="_blank"><img src="https://img.shields.io/badge/-Fiverr-%1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" target="_blank"></a> 
 </div>
-
-##
-
-<div align="center"><br> 
-<p> 𝗩𝗶𝘀𝗶𝘁𝗼𝗿'𝘀 𝗖𝗼𝘂𝗻𝘁 :eyes:</p>
-<p align="center"><img src="https://profile-counter.glitch.me/{GJordao12}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
-</div>
